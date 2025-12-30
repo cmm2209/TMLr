@@ -9,59 +9,59 @@ main:
   - name: Browse
     weight: 20
     hasChildren: true
-  - parent: Browse
-    name: by author
+  - name: by author
     url: author/
     parent: Browse
-    name: by contributor
+  - name: by contributor
     url: contributor/
     parent: Browse
-    name: by incipit
+  - name: by incipit
     url: incipit/
     parent: Browse
-    name: by source
+  - name: by source
     url: source/
     parent: Browse
-    name: by title
+  - name: by title
     url: title/
     parent: Browse
-    name: by century
+  - name: by century
+    parent: Browse
     hasChildren: true
-    parent: by century
-    name: 3rd-5th
+  - name: 3rd-5th
     url: century/3-5/
     parent: by century
-    name: 6th-8th
+  - name: 6th-8th
     url: century/6-8/
     parent: by century
-    name: 9th-11th  
+  - name: 9th-11th
     url: century/9-11/
     parent: by century
-    name: 12th
+  - name: 12th
     url: century/12/
     parent: by century
-    name: 13th
+  - name: 13th
     url: century/13/
     parent: by century
-    name: 14th
+  - name: 14th
     url: century/14/
     parent: by century
-    name: 15th
+  - name: 15th
     url: century/15/
     parent: by century
-    name: 16th
+  - name: 16th
     url: century/16/
     parent: by century
-    name: 17th
+  - name: 17th
     url: century/17/
+    parent: by century
   - name: Concordances
     hasChildren: true
-  - parent: Concordances
-    name: LmL
+  - name: LmL
     url: concordances/LmL
-  - parent: Concordances
-    name: Grove Anonymous
+    parent: Concordances
+  - name: Grove Anonymous
     url: concordances/grove
+    parent: Concordances
   - name: Search
     url: search/
     weight: 40
