@@ -6,15 +6,62 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Browse
     weight: 20
-  - name: Solutions
-    url: /#solutions
-    weight: 30
-  - name: Resources
-    weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - parent: Browse
+    name: by author
+    url: author/
+    parent: Browse
+    name: by contributor
+    url: contributor/
+    parent: Browse
+    name: by incipit
+    url: incipit/
+    parent: Browse
+    name: by source
+    url: source/
+    parent: Browse
+    name: by title
+    url: title/
+    parent: Browse
+    name: by century
+    hasChildren: true
+    parent: by century
+    name: 3rd-5th
+    url: century/3-5/
+    parent: by century
+    name: 6th-8th
+    url: century/6-8/
+    parent: by century
+    name: 9th-11th  
+    url: century/9-11/
+    parent: by century
+    name: 12th
+    url: century/12/
+    parent: by century
+    name: 13th
+    url: century/13/
+    parent: by century
+    name: 14th
+    url: century/14/
+    parent: by century
+    name: 15th
+    url: century/15/
+    parent: by century
+    name: 16th
+    url: century/16/
+    parent: by century
+    name: 17th
+    url: century/17/
+  - name: Concordances
+    hasChildren: true
+  - parent: Concordances
+    name: LmL
+    url: concordances/LmL
+  - parent: Concordances
+    name: Grove Anonymous
+    url: concordances/grove
+  - name: Search
+    url: search/
+    weight: 40
