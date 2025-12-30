@@ -14,7 +14,7 @@ sections:
       text: Online archive of music theory in Latin, reborn.
       primary_action:
         text: Browse the Texts
-        url: https://hugoblox.com/templates/
+        url: "/TMLr/browse/"
         icon: rocket-launch
       secondary_action:
         text: About the Project
