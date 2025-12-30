@@ -11,16 +11,19 @@ sections:
   - block: hero
     content:
       title: Thesaurus Musicarum Latinarum Revivificatus
-      text: A database of Latin music-theoretical texts, reborn.
+      text: Online archive of music theory in Latin, reborn.
       primary_action:
         text: Browse the Texts
-        url: /browse/
+        url: "/browse/"
         icon: rocket-launch
       secondary_action:
         text: About the Project
-        url: /about/
+        url: "/about/"
       announcement:
         text: "Now in Beta Testing."
+        link:
+          text: "Read more"
+          url: "/blog/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
