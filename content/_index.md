@@ -23,7 +23,7 @@ sections:
         text: "Now in Beta Testing."
         link:
           text: "Read more"
-          url: "/about/"
+          url: "about/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
