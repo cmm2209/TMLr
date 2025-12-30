@@ -18,12 +18,12 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: About the Project
-        url: "/TMLr/content/about/"
+        url: "https://docs.hugoblox.com"
       announcement:
         text: "Now in Beta Testing."
         link:
           text: "Read more"
-          url: "/TMLr/content/about/"
+          url: "/about/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
