@@ -10,22 +10,23 @@ main:
     weight: 20
     hasChildren: true
   - name: by author
-    url: author/
+    url: browse/author/
     parent: Browse
   - name: by contributor
-    url: contributor/
+    url: browse/contributor/
     parent: Browse
   - name: by incipit
-    url: incipit/
+    url: browse/incipit/
     parent: Browse
   - name: by source
-    url: source/
+    url: browse/source/
     parent: Browse
   - name: by title
-    url: title/
+    url: browse/title/
     parent: Browse
   - name: by century
-    url: century/
+    url: browse/century/
+    parent: Browse
   - name: Concordances
     url: concordances/
     weight: 30
