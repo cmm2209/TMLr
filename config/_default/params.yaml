@@ -1,10 +1,10 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: ""
+    name: "Thesaurus Musicarum Latinarum Revivificatus"
     type: person
-    tagline: Thesaurus Musicarum Latinarum Revivificatus
-    description: An adaptation of a venerable database of Latin music-theoretical texts.
+    tagline: Latin music theory online
+    description: An adaptation of a venerable database of Latin music-theoretical texts
   theme:
     mode: system
     pack: marine
