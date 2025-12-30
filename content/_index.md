@@ -41,11 +41,13 @@ sections:
     id: solutions
     content:
       items:
-        - text: As easy as 1, 2, 3!
+        - title: A title
+          text: As easy as 1, 2, 3!
           features:
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
-        - text: Join our large community on Discord - ask questions and get live responses
+        - title: Another title
+          text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
