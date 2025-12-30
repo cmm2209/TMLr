@@ -25,43 +25,10 @@ main:
     url: title/
     parent: Browse
   - name: by century
-    parent: Browse
-    hasChildren: true
-  - name: 3rd-5th
-    url: century/3-5/
-    parent: by century
-  - name: 6th-8th
-    url: century/6-8/
-    parent: by century
-  - name: 9th-11th
-    url: century/9-11/
-    parent: by century
-  - name: 12th
-    url: century/12/
-    parent: by century
-  - name: 13th
-    url: century/13/
-    parent: by century
-  - name: 14th
-    url: century/14/
-    parent: by century
-  - name: 15th
-    url: century/15/
-    parent: by century
-  - name: 16th
-    url: century/16/
-    parent: by century
-  - name: 17th
-    url: century/17/
-    parent: by century
+    url: century/
   - name: Concordances
-    hasChildren: true
-  - name: LmL
-    url: concordances/LmL
-    parent: Concordances
-  - name: Grove Anonymous
-    url: concordances/grove
-    parent: Concordances
+    url: concordances/
+    weight: 30
   - name: Search
     url: search/
     weight: 40
