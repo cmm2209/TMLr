@@ -18,12 +18,9 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: About the Project
-        url: "/about/"
+        url: "/TMLr/about/"
       announcement:
         text: "Now in beta testing."
-        link:
-          text: "Read more"
-          url: "/blog/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
