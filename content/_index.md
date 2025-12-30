@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Thesaurus Musicarum Latinarum Revivificatus
-      text: Online archive of music theory in Latin, reborn.
+      title: Build Your Landing Pages with Hugo Blox
+      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
-        text: Browse the Texts
-        url: "/browse/"
+        text: Get Started
+        url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: About the Project
-        url: "/about/"
+        text: Read the docs
+        url: https://docs.hugoblox.com
       announcement:
-        text: "Now in Beta Testing."
+        text: "Announcing the release of version 1."
         link:
           text: "Read more"
           url: "/blog/"
