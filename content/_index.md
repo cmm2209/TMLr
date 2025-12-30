@@ -18,7 +18,7 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: About the Project
-        url: https://docs.hugoblox.com
+        url: "/about/"
       announcement:
         text: "Now in beta testing."
         link:
