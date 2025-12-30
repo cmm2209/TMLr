@@ -50,9 +50,6 @@ sections:
             - "No JavaScript knowledge required"
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
-          button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
