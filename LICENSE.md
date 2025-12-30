@@ -19,3 +19,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+CC BY 4.0 License
+
+The Thesaurus Musicarum Latinarum Revivificatus is adapted from the Thesaurus Musicarum Latinarum by the Center for the History of Music Theory and Literature of the Indiana University Jacobs School of Music, used under a Creative Commons Attribution 4.0 International License. Except where otherwise noted, the Thesaurus Musicarum Latinarum Revivificatus is licensed under CC BY 4.0 by Caleb Mutch. 
