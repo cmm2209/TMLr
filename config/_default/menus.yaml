@@ -7,7 +7,6 @@ main:
     url: /#top
     weight: 10
   - name: Browse
-    url: browse/
     weight: 20
     hasChildren: true
   - name: by author
