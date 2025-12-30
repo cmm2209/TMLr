@@ -12,9 +12,6 @@ main:
   - name: by author
     url: browse/author/
     parent: Browse
-  - name: by contributor
-    url: browse/contributor/
-    parent: Browse
   - name: by incipit
     url: browse/incipit/
     parent: Browse
