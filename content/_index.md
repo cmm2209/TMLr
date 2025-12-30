@@ -56,7 +56,7 @@ sections:
           button:
             text: Copyright Notice
             url: "/TMLr/copyright/"
-        - title: ""
+        - title: "History"
           text: "The original _Thesaurus Musicarum Latinarum_ was created in 1990 as the inaugural project of the Center for the History of Music Theory and Literature (CHMTL), and it was long supported by Indiana University and the Jacobs School of Music. An unfortunate history of cyber attacks, funding cuts, and website issues has revealed the pitfalls of relying on a single host for this valuable resource. Consequently, the TMLr aims to reproduce the public-domain materials, while also updating the user experience."
           feature_icon: check
           features: ""
