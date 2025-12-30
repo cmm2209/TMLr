@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: Caleb M Mutch
+    name: ""
     type: person
     tagline: Thesaurus Musicarum Latinarum Revivificatus
     description: An adaptation of a venerable database of Latin music-theoretical texts.
@@ -29,14 +29,13 @@ hugoblox:
   footer:
     style: minimal
     language_switcher: true
-  copyright:
-    notice: © {year} {name}
+  copyright: ""
   content:
     math:
       enable: false
     toc:
       enable: true
     reading_time:
-      enable: true
+      enable: false
   search:
     enable: true
