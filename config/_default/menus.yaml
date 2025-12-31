@@ -24,6 +24,9 @@ main:
   - name: by century
     url: browse/century/
     parent: Browse
+  - name: by contributor
+    url: browse/contributor/
+    parent: Browse
   - name: Concordances
     url: concordances/
     weight: 30
