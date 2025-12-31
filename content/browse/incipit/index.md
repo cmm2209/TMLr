@@ -1,6 +1,6 @@
 ---
-title: A brief introduction
-summary: About the TMLr
+title: 🎉 Easily create your own simple yet highly customizable blog
+summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27
 
 # Featured image
@@ -8,25 +8,79 @@ date: 2023-10-27
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-authors: ""
+authors:
+  - me
+  - Ted
 
 tags:
-  - About
-  - History
+  - Academic
+  - Hugo Blox
+  - Markdown
 ---
-{{< toc mobile_only=true is_open=false >}}
 
-The _Thesaurus Musicarum Latinarum_ (TML) was created in 1990 by the initiative of a group of scholars from around the world, under the direction of Thomas Mathiesen at Indiana University, with the ambition to collect in electronic format the entire corpus of Latin music theory written during the Middle Ages and the Renaissance.
+Welcome 👋
 
-These texts are literary works that discuss general principles (e.g. the origin and nature of music, its role within human activities) or technical issues (e.g. the construction of musical instruments); or describe or define procedures (composition, notation and performance), and genres or styles (within liturgical, secular, and instrumental repertories, in monody and polyphony). Many of the treatises include illustrations and drawings exemplifying the matters discussed and musical examples, sometimes derived from actual compositions (sometimes the only remnants of otherwise lost pieces). Often the authors are the same musicians known from sources of contemporary music.
+{{< toc mobile_only=true is_open=true >}}
 
-These writings are of course of the greatest importance to music historians, theorists and early music performers: the information they give plays a fundamental role in our ability to reconstruct, understand, and ultimately perform the music of the past. But the significance of these texts goes beyond the interest of a single discipline. Since its inception, the TML has also been used as a research aid for scholars of intellectual and scientific history. In fact, these writings reflect the much broader role that music held in the history of ideas, not as an exclusively aesthetic phenomenon but rather as an essential part of the social, religious, and educational experience, especially within those times and cultures when Latin was the language of learning and intellectual life.
+## Overview
 
-At the time when the TML was established, some of these texts were being published in specialized series, while others were scattered in publications and journals often difficult to locate. The TML project aimed to gather all these texts in one place, and to use technology to disseminate them and to support their study. As a matter of fact, the TML developed coextensively with the scholarly use of the Internet. At the beginning, the texts were distributed via FTP, one of the first Internet services developed, which allowed users to download individual ASCII files from Bloomington to their own machines. The possibility of searching for words in electronic texts on a computer revolutionized the _modus operandi_ of researchers and boosted scholarship.
-The TML classic website
+1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
-In 1998, with the launch of the website, the TML became one of the first resources in the field to find its way onto the World Wide Web, and over the last two decades, established itself as one of the most authoritative projects in the field of musicology, acknowledged as a key resource in numerous print and electronic publications. The success of the TML prompted the opening of the Center for the History of Music Theory and Literature (CHMTL) and the creation of sister projects dealing with similar texts in other languages (_Saggi musicali italiani_, _Texts on Music in English_, and _Traités en français sur la musique_).
+[//]: # '[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/HugoBlox/hugo-blox-builder/main/templates/academic-cv/preview.png)](https://hugoblox.com)'
 
-In December 2015, the software operating the old search utility was the object of a malicious cyberattack and the site had to be shut down, making a complete rebuilding of the project unavoidable. A new edition, released in 2017, offered extended capabilities for browsing and searching the archive. 
+### Get Started
 
-Giuliano Di Bacco, June 2017
+- 👉 [**Create a new site**](https://hugoblox.com/templates/)
+- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
+- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@BuildLore](https://x.com/BuildLore) [@GeorgeCushen](https://x.com/GeorgeCushen) #MadeWithHugoBlox
+- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
+- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+
+## Crowd-funded open-source software
+
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+
+### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+
+## Features
+
+- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
+- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one-page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 35+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+
+[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
