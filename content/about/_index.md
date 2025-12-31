@@ -14,12 +14,7 @@ tags:
   - About
   - History
 ---
-
-Welcome 👋
-
 {{< toc mobile_only=true is_open=false >}}
-
-## A brief introduction
 
 The _Thesaurus Musicarum Latinarum_ (TML) was created in 1990 by the initiative of a group of scholars from around the world, under the direction of Thomas Mathiesen at Indiana University, with the ambition to collect in electronic format the entire corpus of Latin music theory written during the Middle Ages and the Renaissance.
 
