@@ -25,7 +25,7 @@ hugoblox:
     sticky: true
     align: center
     search: true
-    theme_toggle: true
+    theme_toggle: false
   footer:
     style: minimal
     language_switcher: true
