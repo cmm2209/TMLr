@@ -17,8 +17,4 @@ tags:
 
 {{< toc mobile_only=true is_open=false >}}
 
-The classic TML offered customizable search possibilities that the TMLr project aspires to reproduce, while rectifying some of its shortcomings. Until such search functionality is enabled, users are encouraged to use external search engines to search the texts found on this website.
-- button:
-    text: Search the TMLr corpus using Google
-    url: https://www.google.com/search?q=site%3Acmm2209.github.io/TMLr
-(Will be functional once Google indexes the site.)
+The classic TML offered customizable search possibilities that the TMLr project aspires to reproduce, while rectifying some of its shortcomings. Until such search functionality is enabled, users are encouraged to use [An external search engine](https://www.google.com/search?q=site%3Acmm2209.github.io/TMLr) to search the texts found on this website. (Linked search will be functional once Google indexes the site.)
