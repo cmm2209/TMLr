@@ -14,11 +14,11 @@ sections:
       text: Online archive of music theory in Latin, reborn.
       primary_action:
         text: Browse the Texts
-        url: "/TMLr/browse/century"
+        url: "/browse/century"
         icon: rocket-launch
       secondary_action:
         text: About the Project
-        url: "/TMLr/about/"
+        url: "/about/"
       announcement:
         text: "Now in beta testing."
     design:

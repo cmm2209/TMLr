@@ -28,14 +28,20 @@ hugoblox:
     theme_toggle: false
   footer:
     style: minimal
-    language_switcher: true
-  copyright: ""
+    language_switcher: false
+  copyright:
+    notice: "This work is licensed under {license}"
+    license:
+      type: cc              # cc | all_rights | custom
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
   content:
     math:
       enable: false
     toc:
-      enable: true
+      enable: false
     reading_time:
       enable: false
   search:
-    enable: true
+    enable: false
