@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: 'TMLr'
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -51,6 +51,13 @@ removePathAccents: true
 
 build:
   writeStats: true
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: 'assets/notwatching/hugo_stats\.json'
+    target: css
+  - source: '(postcss|tailwind)\.config\.js'
+    target: css
 enableGitInfo: false
 summaryLength: 30
 pagination:
@@ -81,3 +88,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - disableWatch: true
+    source: hugo_stats.json
+    target: assets/notwatching/hugo_stats.json
