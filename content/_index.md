@@ -20,7 +20,7 @@ sections:
         text: About the Project
         url: "/about/"
       announcement:
-        text: "Now in beta testing."
+        text: "Beta version."
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
