@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Browse | TMLr</title><link>https://example.com/tags/browse/</link><atom:link href="https://example.com/tags/browse/index.xml" rel="self" type="application/rss+xml"/><description>Browse</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo.svg</url><title>Browse</title><link>https://example.com/tags/browse/</link></image><item><title>Browsing Parameters</title><link>https://example.com/browse/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/browse/</guid><description>
+&lt;details class="print:hidden xl:hidden" &gt;
+&lt;summary&gt;Table of Contents&lt;/summary&gt;
+&lt;div class="text-sm"&gt;
+&lt;nav id="TableOfContents"&gt;&lt;/nav&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;a href="https://example.com/content/browse/author/"&gt;Browse by author&lt;/a&gt;
+&lt;a href="https://example.com/content/browse/century/"&gt;Browse by century&lt;/a&gt;
+&lt;a href="https://example.com/content/browse/incipit/"&gt;Browse by incipit&lt;/a&gt;
+&lt;a href="https://example.com/content/browse/source/"&gt;Browse by source&lt;/a&gt;
+&lt;a href="https://example.com/content/browse/title/"&gt;Browse by title&lt;/a&gt;
+&lt;a href="https://example.com/content/browse/contributor/"&gt;Browse by contributor&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

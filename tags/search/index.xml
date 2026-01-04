@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Search | TMLr</title><link>https://example.com/tags/search/</link><atom:link href="https://example.com/tags/search/index.xml" rel="self" type="application/rss+xml"/><description>Search</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo.svg</url><title>Search</title><link>https://example.com/tags/search/</link></image><item><title>Searching the TMLr corpus</title><link>https://example.com/search/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/search/</guid><description>
+&lt;details class="print:hidden xl:hidden" &gt;
+&lt;summary&gt;Table of Contents&lt;/summary&gt;
+&lt;div class="text-sm"&gt;
+&lt;nav id="TableOfContents"&gt;&lt;/nav&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;p&gt;The classic TML offered customizable search possibilities that the TMLr project aspires to reproduce, while rectifying some of its shortcomings. Until such search functionality is enabled, users are encouraged to use &lt;a href="https://www.google.com/search?q=site%3Acmm2209.github.io/TMLr" target="_blank" rel="noopener"&gt;an external search engine&lt;/a&gt; to search the texts found on this website. (Linked search will be functional once Google indexes the site.)&lt;/p&gt;</description></item></channel></rss>
