@@ -6867,4 +6867,13 @@ ul.lmlConcordance-tmlList li.canonical:before {
   padding-right:.25em;
   content:">";
 }
-
+ul.entry-list span.fnft {
+  font-variant:small-caps;
+  white-space:nowrap
+}
+a {
+  text-decoration:none
+}
+a:hover {
+  text-decoration:underline
+}
