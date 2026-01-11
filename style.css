@@ -7067,3 +7067,16 @@ span.pageNo {
   font-size:85%;
   vertical-align:super
 }
+#source p.author {
+  font-size: 125%;
+  font-weight: bold;
+  margin: 0 auto;
+}
+#source p.title {
+  font-size: 115%;
+  font-weight: bold;
+  font-style: italic;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
