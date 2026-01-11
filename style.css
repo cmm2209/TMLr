@@ -7048,6 +7048,9 @@ p#multipart-file {
 .fa-angle-double-right::before {
   content: ">";
 }
+.fa-angle-double-left::before {
+  content: "<";
+}
 #container.tml-file div#metadata-contd {
   border-bottom:1px dotted grey;
   margin-bottom:2em
@@ -7057,4 +7060,10 @@ p#multipart-file {
 }
 #tml-text {
   border-top: 1px dotted grey;
+  padding-top: 1em;
+}
+span.pageNo {
+  color:#999;
+  font-size:85%;
+  vertical-align:super
 }
