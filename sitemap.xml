@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cmm2209.github.io/TMLr/</loc>
+    <loc>https://cmm2209.github.io/TMLr/index.html</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://cmm2209.github.io/TMLr/terms</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
   </url>
@@ -3543,4 +3548,4 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>never</changefreq>
   </url>  
-  </urlset>
+</urlset>
